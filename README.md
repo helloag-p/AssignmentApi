@@ -204,6 +204,16 @@ The React UI provides:
 
 ---
 
+## Screenshots
+
+Place your images in a `screenshots/` folder in the project root, alongside `backend/`, `frontend/`, and `README.md`, then reference them like this:
+
+![Swagger UI showing all endpoints](screenshots/swagger-ui.png)
+
+![React frontend - Assignment API Demo](screenshots/frontend-login.png)
+
+---
+
 - Swagger UI at `http://localhost:5000/api-docs` showing:
   - Auth, Tasks, and Users endpoints.
 - React app:
