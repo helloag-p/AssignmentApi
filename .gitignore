@@ -1,0 +1,22 @@
+# Node / backend
+backend/node_modules
+backend/package-lock.json
+backend/.env
+
+# Frontend
+frontend/vite-project/node_modules
+frontend/vite-project/dist
+frontend/vite-project/.eslintcache
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+
